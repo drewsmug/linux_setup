@@ -1,2 +1,2 @@
-
-export TERM=screen-256color-bce
+export VISUAL=vim
+export EDITOR="$VISUAL"
