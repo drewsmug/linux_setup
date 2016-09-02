@@ -4,3 +4,4 @@ set smartindent
 set hlsearch
 set incsearch
 set ignorecase
+set paste
