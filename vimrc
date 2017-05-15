@@ -1,7 +1,15 @@
-set tabstop=8 softtabstop=0 expandtab shiftwidth=4 smarttab
-set autoindent
-set smartindent
+"search
 set hlsearch
-set incsearch
 set ignorecase
-set paste
+set smartcase
+
+"indentation
+set tabstop=8
+set shiftwidth=8
+set noexpandtab
+
+set smartindent
+set autoindent
+
+"Counts default to decimal and not octal
+set nrformats=
